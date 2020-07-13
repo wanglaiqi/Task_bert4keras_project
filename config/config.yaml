@@ -1,0 +1,10 @@
+data_path:
+  SogouQA: "/opt/wlq/project/Task_bert4keras_mrc/data/SogouQA/"
+  WebQA: "/opt/wlq/project/Task_bert4keras_mrc/data/WebQA/"
+  RandomOrder: "/opt/wlq/project/Task_bert4keras_mrc/data/RandomOrder/"
+  sentiment: "/opt/wlq/project/Task_bert4keras_mrc/data/sentiment/"
+model_path: "/opt/wlq/project/Task_bert4keras_mrc/model/"
+picture_path: "/opt/wlq/project/Task_bert4keras_mrc/picture/"
+bert_model_path: "/opt/wlq/models/bert_model/chinese_L-12_H-768_A-12/"
+albert_tiny_path: "/opt/wlq/models/albert_model/albert_tiny_zh/"
+albert_small_google_path: "/opt/wlq/models/albert_model/albert_small_google_zh/"
